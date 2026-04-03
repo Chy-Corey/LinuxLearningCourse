@@ -8,7 +8,9 @@
 
 ### 一、VM ware 安装
 
-我使用的是 VM ware 16.2.5 的版本，下载地址为：[下载链接](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe)；激活码为：
+由于我使用的是windows平台，所以需要安装虚拟机来安装linux系统。
+
+我使用的虚拟机是 VM ware 16.2.5 的版本，下载地址为：[下载链接](https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.0.0-16894299.exe)；激活码为：
 
 这是 16.0.0 的版本，需要安装好后更新到 16.2.5的版本
 
